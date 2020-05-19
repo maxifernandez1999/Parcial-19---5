@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1589891079 source:c:\users\polaco\desktop\progrlab.c\parcial 12-5\dueño.c
+	"dueño.h"
+	"gets.h"
+
+1589763642 c:\users\polaco\desktop\progrlab.c\parcial 12-5\dueño.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gets.h"
+
+1589824747 c:\users\polaco\desktop\progrlab.c\parcial 12-5\gets.h
+
+1589727782 source:c:\users\polaco\desktop\progrlab.c\parcial 12-5\gets.c
+	<stdio.h>
+	<string.h>
+	"gets.h"
+
+1589890986 source:c:\users\polaco\desktop\progrlab.c\parcial 12-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota_dueño.h"
+
+1589853338 c:\users\polaco\desktop\progrlab.c\parcial 12-5\mascota_dueño.h
+	"mascota.h"
+	"dueño.h"
+
+1589891513 c:\users\polaco\desktop\progrlab.c\parcial 12-5\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589891314 source:c:\users\polaco\desktop\progrlab.c\parcial 12-5\mascota.c
+	"mascota.h"
+	"gets.h"
+
+1589891253 source:c:\users\polaco\desktop\progrlab.c\parcial 12-5\mascota_dueño.c
+	"mascota_dueño.h"
+	"gets.h"
+
